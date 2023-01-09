@@ -177,7 +177,7 @@ exit
 ![](images/connected-to-mariadb.png)
 - Next we will clone source code to database vm. And change directory to `src/main/resources/` to get the `sql queries.
 ```
-git clone https://github.com/rumeysakdogan/vprofile-project.git
+git clone https://github.com/wajd800/vprofile-project.git
 cd vprofile-project/src/main/resources/
 ```
 - First we will run below queries before initializing our database.
@@ -380,7 +380,7 @@ systemctl status tomcat
 
 - We are still in `/tmp` directory, we will clone our source code here.
 ```sh
-git clone https://github.com/rumeysakdogan/vprofile-project.git
+git clone https://github.com/wajd800/vprofile-project.git
 ls
 cd vprofile-project/
 ```
